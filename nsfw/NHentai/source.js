@@ -395,7 +395,7 @@ const NHentaiSettings_1 = require("./NHentaiSettings");
 const NHENTAI_URL = 'https://nhentai.net';
 const API = NHENTAI_URL + '/api';
 exports.NHentaiInfo = {
-    version: '3.2.2',
+    version: '3.2.3',
     name: 'nhentai',
     icon: 'icon.png',
     author: 'NotMarek',
@@ -439,7 +439,7 @@ const extraArgs = (stateManager) => __awaiter(void 0, void 0, void 0, function* 
     const args = yield NHentaiSettings_1.getExtraArgs(stateManager);
     return ` ${args}`;
 });
-const userAgent = 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1';
+const userAgent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15';
 class NHentai extends paperback_extensions_common_1.Source {
     constructor() {
         super(...arguments);
