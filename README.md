@@ -2,7 +2,7 @@
 
 ## THIS IS A FORKED REPO OF THE ORIGINAL PAPERBACK SOURCES
 
-[Github Repo](https://github.com/TheNetsky/extensions-sources)
+[Github Repo](https://github.com/amanojakudesuyo/extensions-sources)
 <br>
 Join the [Discord](https://discord.gg/rmf6jQpMU9) for support and more sources!
 
@@ -10,5 +10,5 @@ Join the [Discord](https://discord.gg/rmf6jQpMU9) for support and more sources!
 
 | Source Type | Description |          Link |
 | ---        |    ----   |         --- |
-| Primary      | Updated primary sources for Paperback      | [Click me!](https://thenetsky.github.io/extensions-sources/primary/)    |
-| NSFW   | Update nsfw sources for Paperback     |  [Click me!](https://thenetsky.github.io/extensions-sources/nsfw/)    |
+| Primary      | Updated primary sources for Paperback      | [Click me!](https://amanojakudesuyo.github.io/extensions-sources/primary/)    |
+| NSFW   | Update nsfw sources for Paperback     |  [Click me!](https://amanojakudesuyo.github.io/extensions-sources/nsfw/)    |
